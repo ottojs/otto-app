@@ -4,8 +4,8 @@
   "repository" : "https://github.com/ottojs/otto-app.git",
   "main" : "./lib/index.js",
   "dependencies" : {
-    "socket.io"     : "1.0.6",
     "express"       : "4.10.0",
+    "socket.io"     : "1.1.0",
     "otto-config"   : "0.0.4",
     "otto-errors"   : "0.0.2",
     "otto-response" : "0.1.0"
