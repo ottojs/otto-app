@@ -6,8 +6,8 @@
   "dependencies" : {
     "express"       : "4.10.4",
     "socket.io"     : "1.2.1",
+    "otto-errors"   : "0.1.0",
     "otto-config"   : "0.0.4",
-    "otto-errors"   : "0.0.2",
     "otto-response" : "0.1.0"
   },
   "devDependencies" : {
