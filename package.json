@@ -5,7 +5,7 @@
   "main" : "./lib/index.js",
   "dependencies" : {
     "express"       : "4.10.0",
-    "socket.io"     : "1.1.0",
+    "socket.io"     : "1.2.1",
     "otto-config"   : "0.0.4",
     "otto-errors"   : "0.0.2",
     "otto-response" : "0.1.0"
