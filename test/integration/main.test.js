@@ -25,7 +25,10 @@ describe('Module', function () {
 
   it('should attach array of routes', function () {
     subject({
-      routes : [ function (app) {} ]
+      routes : [
+        function (app, done) { done(); },
+        function (app, done) { done(); }
+      ]
     }).should.have.property('get').and.be.type('function');
   });
 
