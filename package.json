@@ -4,22 +4,22 @@
   "repository" : "https://github.com/ottojs/otto-app.git",
   "main" : "./lib/index.js",
   "dependencies" : {
-    "express"       : "4.10.4",
-    "socket.io"     : "1.2.1",
-    "otto-errors"   : "0.1.0",
-    "otto-config"   : "0.1.1",
-    "otto-response" : "0.2.0"
+    "express"       : "4.13.3",
+    "socket.io"     : "1.3.6",
+    "otto-errors"   : "0.2.0",
+    "otto-config"   : "0.2.0",
+    "otto-response" : "0.4.0"
   },
   "devDependencies" : {
-    "jshint"   : "2.5.10",
-    "mocha"    : "2.0.1",
-    "should"   : "4.3.0",
-    "istanbul" : "0.3.2"
+    "jshint"   : "2.8.0",
+    "mocha"    : "2.2.5",
+    "should"   : "7.0.4",
+    "istanbul" : "0.3.18"
   },
   "scripts" : {
     "test" : "make test"
   },
   "engines" : {
-    "node" : "0.10.x"
+    "node" : "0.12.x"
   }
 }
