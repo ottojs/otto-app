@@ -3,6 +3,7 @@
   "version" : "0.3.1",
   "repository" : "https://github.com/ottojs/otto-app.git",
   "main" : "./lib/index.js",
+  "license" : "MIT",
   "dependencies" : {
     "async"         : "1.4.2",
     "express"       : "4.13.3",
