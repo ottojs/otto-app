@@ -1,6 +1,6 @@
 {
   "name" : "otto-app",
-  "version" : "0.3.2",
+  "version" : "0.4.0",
   "repository" : "https://github.com/ottojs/otto-app.git",
   "main" : "./lib/index.js",
   "license" : "MIT",
